@@ -1,6 +1,7 @@
 # Web-camera device id
 # Call `v4l2-ctl --list-devices` and find your web-camera device, e.g. /dev/videoX, where X is camera id
-CAMID=0
+# CAMID 2 for mac air 
+CAMID=2
 
 # ################################################
 # Normally you don't want to change settings below
