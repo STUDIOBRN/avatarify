@@ -1,8 +1,5 @@
 ![](docs/mona.gif)
 
-
-[<img src="https://img.shields.io/badge/slack-join-brightgreen?style=flat&logo=slack">](https://join.slack.com/t/avatarify/shared_invite/zt-dyoqy8tc-~4U2ObQ6WoxuwSaWKKVOgg)
-
 # Avatarify
 
 Photorealistic avatars for Skype and Zoom. Democratized.
