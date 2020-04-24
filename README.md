@@ -3,10 +3,6 @@
 
 [<img src="https://img.shields.io/badge/slack-join-brightgreen?style=flat&logo=slack">](https://join.slack.com/t/avatarify/shared_invite/zt-dyoqy8tc-~4U2ObQ6WoxuwSaWKKVOgg)
 
-:arrow_forward: [Demo](https://youtu.be/Q7LFDT-FRzs) 
-
-:arrow_forward: [AI-generated Elon Musk](https://youtu.be/lONuXGNqLO0)
-
 # Avatarify
 
 Photorealistic avatars for Skype and Zoom. Democratized.
